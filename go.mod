@@ -1,4 +1,4 @@
-module github.com/atrem13/golang-api-user.git
+module github.com/atrem13/golang-api-user
 
 go 1.19
 
